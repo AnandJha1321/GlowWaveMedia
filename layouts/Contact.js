@@ -40,7 +40,7 @@ const Contact = ({ data }) => {
                   className="form-input w-full rounded"
                   name="Which Plan do you want?"
                   type="text"
-                  placeholder="Subject"
+                  placeholder="which plan your business need, Starter or Growth?"
                   required
                 />
               </div>
