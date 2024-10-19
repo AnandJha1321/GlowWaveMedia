@@ -6,6 +6,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import React, { useState } from "react";
 import config from "../../config/config.json";
+import Image from "next/image";
 
 const Header = () => {
   const pathname = usePathname();
@@ -22,10 +23,17 @@ const Header = () => {
 
   return (
     <header className="header">
-      <nav className="navbar container">
+      <nav className="navbar container ">
         {/* logo */}
-        <div className="order-0">
-          <Logo src={logo} />
+        <div className="text-[#5c968c] flex items-center gap-1 ">
+          <Image
+          width={40}
+          height={40}
+            src = {config.site.favicon}
+          />
+          <div className="mt-1">
+           <Logo src={logo} />
+          </div>
         </div>
 
         {/* navbar toggler */}

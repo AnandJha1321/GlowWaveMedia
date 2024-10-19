@@ -12,6 +12,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "bigspring-light-nextjs": "link:",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
     "heroicons": "^2.1.5",

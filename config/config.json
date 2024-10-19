@@ -1,12 +1,11 @@
 {
   "site": {
-    "title": "Bigspring Light Nextjs",
+    "title": "GlowWave Media",
     "base_url": "/",
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "48",
-    "logo_text": "Bigspring Light"
+    "logo_text": "GlowWave Media"
   },
 
   "settings": {
@@ -24,13 +23,13 @@
   "params": {
     "contact_form_action": "https://formspree.io/f/xovqqozk",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "footer_content": "Get expert support tailored to your business needs. From custom website solutions to powerful ad campaigns, we are here to help you scale, automate, and achieve real results! <br /> Our Company Number - 9321633596",
     "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
   },
 
   "metadata": {
     "meta_author": "Themefisher",
     "meta_image": "",
-    "meta_description": "A SAAS template for nextjs"
+    "meta_description": "Digital Advertising Agency"
   }
 }

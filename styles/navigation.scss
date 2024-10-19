@@ -8,11 +8,16 @@
 }
 
 .navbar-brand {
-  @apply text-xl font-semibold text-dark;
+  @apply text-2xl font-extrabold text-[#5c968c];
 
   image {
     @apply max-h-full max-w-full;
   }
+}
+.kaushan-script-regular {
+  font-family: "Kaushan Script", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .navbar-nav {
